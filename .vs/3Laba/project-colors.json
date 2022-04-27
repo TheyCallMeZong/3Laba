@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8ecb0c3-899e-4d78-8d9d-3c2dd70eac5c": {
+      "ProjectGuid": "a8ecb0c3-899e-4d78-8d9d-3c2dd70eac5c",
+      "DisplayName": "3Laba",
+      "ColorIndex": 0
+    },
+    "39639c21-c362-4ec8-bc60-2940580ed5e3": {
+      "ProjectGuid": "39639c21-c362-4ec8-bc60-2940580ed5e3",
+      "DisplayName": "MyLib",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "1a6e02e0-2bc9-4c91-9ad9-a9be13cf64e8": {
+      "ProjectGuid": "1a6e02e0-2bc9-4c91-9ad9-a9be13cf64e8",
+      "DisplayName": "MyLib",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

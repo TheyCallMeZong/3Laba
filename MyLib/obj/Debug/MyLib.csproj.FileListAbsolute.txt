@@ -1,0 +1,8 @@
+D:\ТиМП\3Laba\3Laba\MyLib\bin\Debug\MyLib.dll
+D:\ТиМП\3Laba\3Laba\MyLib\bin\Debug\MyLib.pdb
+D:\ТиМП\3Laba\3Laba\MyLib\obj\Debug\MyLib.csproj.AssemblyReference.cache
+D:\ТиМП\3Laba\3Laba\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\ТиМП\3Laba\3Laba\MyLib\obj\Debug\MyLib.dll
+D:\ТиМП\3Laba\3Laba\MyLib\obj\Debug\MyLib.pdb
+D:\ТиМП\3Laba\3Laba\MyLib\obj\Debug\MyLib.UserControl1.resources
+D:\ТиМП\3Laba\3Laba\MyLib\obj\Debug\MyLib.csproj.GenerateResource.cache

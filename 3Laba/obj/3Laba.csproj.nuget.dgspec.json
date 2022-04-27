@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ТиМП\\3Laba\\3Laba\\3Laba\\3Laba.csproj": {}
+  },
+  "projects": {
+    "D:\\ТиМП\\3Laba\\3Laba\\3Laba\\3Laba.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ТиМП\\3Laba\\3Laba\\3Laba\\3Laba.csproj",
+        "projectName": "3Laba",
+        "projectPath": "D:\\ТиМП\\3Laba\\3Laba\\3Laba\\3Laba.csproj",
+        "packagesPath": "C:\\Users\\Tom-development\\.nuget\\packages\\",
+        "outputPath": "D:\\ТиМП\\3Laba\\3Laba\\3Laba\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\sdk\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tom-development\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\ТиМП\\3Laba\\3Laba\\MyLib\\MyLib.csproj": {
+                "projectPath": "D:\\ТиМП\\3Laba\\3Laba\\MyLib\\MyLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ТиМП\\3Laba\\3Laba\\MyLib\\MyLib.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\ТиМП\\3Laba\\3Laba\\MyLib\\MyLib.csproj",
+        "projectName": "MyLib",
+        "projectPath": "D:\\ТиМП\\3Laba\\3Laba\\MyLib\\MyLib.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
